@@ -4,10 +4,8 @@
 # # Heading
 
 # %%
-from platform import python_version
 
-print(python_version())
-
+print("Hello Shivanan")
 # %% [markdown]
 # This function returns the square of a number.
 
